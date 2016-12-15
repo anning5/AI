@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="..\..\src\examples\layer1\a_star\a_star.h">
+      <Filter>a_star</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\shaders\a_star_shader.h">
+      <Filter>a_star</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\a_star\a_star_app.h">
+      <Filter>a_star</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\loaders\jpeg_decoder.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\platform\windows_specific.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\lsystem\lsystem.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\lsystem\lsystem_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\math\mat4t.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\mesh_builder.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\platform\CL\opencl.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\shaders\phong_shader.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\physics\physics_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\ping\ping_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\platform\platform.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\containers\ptr.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\math\quat.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\math\random.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\containers\ref.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\resource.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\resources.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\bomberman\scene_object.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\shaders\shader.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\bomberman\shrapnel.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\fluid_dynamics\solver3d.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\bomberman\sound.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\bomberman\static_object.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\containers\string.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\tetris\tetris_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\tetris\tetris_shader.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\tetris\tetris_shapes.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\texture\texture_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\shaders\texture_normal_shader.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\shaders\texture_shader.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\loaders\tga_decoder.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\triangle\triangle_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\url_finder.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\math\vec4.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\visitor.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\math\aabb.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\math\ivec4.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\containers\allocator.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\angry_box2d\angry_box2d_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\platform\app_common.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\app_utils.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\atoms.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\a_star\binary_tree.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\bomberman\bomb.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\bomberman\bomberman_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\bump\bump_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\shaders\bump_shader.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\math\bvec4.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\loaders\collada_builder.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\bomberman\collision_callback.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\shaders\color_shader.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\loaders\dds_decoder.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\containers\dictionary.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\containers\dynarray.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\examples.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\gif\gif_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\loaders\gif_decoder.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\platform\gl_defs.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\gl_resource.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\platform\glut_specific.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\containers\hash_map.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\http_writer.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\invaderers\invaderers_app.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\resources\xml_writer.h">
+      <Filter>other</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\examples\layer1\a_star\map_generator.h">
+      <Filter>a_star</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\src\resources\mesh_builder.inl">
+      <Filter>other</Filter>
+    </None>
+    <None Include="..\..\src\resources\resources.inl">
+      <Filter>other</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="a_star">
+      <UniqueIdentifier>{e79f675d-69d2-4ff1-baa4-5b074968ceb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="other">
+      <UniqueIdentifier>{fd52181b-169b-49f3-8f81-04f220c0d923}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\examples\layer1\main.cpp">
+      <Filter>other</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
